@@ -16,7 +16,7 @@ int main(int argc, char *argv[])
   a = atof(argv[1]);
   b = atof(argv[2]);
   cin >> x;
-  if ( x = "+")
+  if ( x == "+")
    cout << a + b;
   else
    cout << a - b;
